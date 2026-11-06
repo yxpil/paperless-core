@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 构建中间产物
+_merge_*.md
+*.tmp
+~$*.docx
+
+# 本地截图/临时目录
+.screenshots/
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
